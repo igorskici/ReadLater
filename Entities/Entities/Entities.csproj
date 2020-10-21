@@ -45,6 +45,7 @@
     <Compile Include="EntityBase.cs" />
     <Compile Include="IObjectState.cs" />
     <Compile Include="ObjectState.cs" />
+    <Compile Include="Person.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
